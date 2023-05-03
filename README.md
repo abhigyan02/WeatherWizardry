@@ -1,8 +1,8 @@
 # Weather App
 
 Simple weather app using HTML, CSS and JavaScript </br>
-Quickly access accurate weather information with a clean, modern and user-friendly design.
-Quick link to my web web application
+Quickly access accurate weather information with a clean, modern and user-friendly design.</br>
+Quick link to my web web application.
 https://abhigyan02.github.io/WeatherWizardry/
 
 ### Description:
